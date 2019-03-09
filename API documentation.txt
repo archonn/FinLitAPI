@@ -1,0 +1,6 @@
+prefix => http://finlit.innovatorymm.com/api/v1
+
+Create user
+endpoint - /user 		
+method - POST
+parameters - { name,  }
